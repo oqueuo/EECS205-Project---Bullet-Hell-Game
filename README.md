@@ -13,11 +13,18 @@ Do not get hit by neither the red projectiles nor the fires on the ground.
 Getting hit will decrease your health by 1. You have 3 lives. Get hit 3 times = GAME OVER!
 
 Controls:
+
 P: Pause
+
 O: Unpause
+
 UpArrow: Move up
+
 DownArrow: Move down
+
 LeftArrow: Move left
+
 RightArrow: Move right
+
 Spacebar: Shoot Bullet.
 
